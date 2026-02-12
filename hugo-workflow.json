@@ -1,7 +1,0 @@
-{
-  "name": "demo-workflow",
-  "description": "A demo workflow with an agent, skill, and command",
-  "agents": [{ "path": "agents/code-reviewer.md" }],
-  "skills": [{ "path": "skills/linting" }],
-  "commands": [{ "path": "commands/review.md" }]
-}

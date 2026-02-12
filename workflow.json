@@ -1,0 +1,11 @@
+{
+  "agents": [
+    "code-reviewer"
+  ],
+  "commands": [
+    "review"
+  ],
+  "skills": [
+    "linting"
+  ]
+}
